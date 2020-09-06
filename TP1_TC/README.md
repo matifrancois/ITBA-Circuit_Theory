@@ -15,5 +15,5 @@ On this app the Filter data can be entered in the following 3 ways:
 ## Image of the program running.
 
 <div align="center">
-<img src="./images/PlotTool.png" width="70%">
+<img src="./images/PlotTool.PNG" width="70%">
 </div>
