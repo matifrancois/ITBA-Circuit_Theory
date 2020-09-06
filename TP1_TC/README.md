@@ -12,7 +12,7 @@ On this app the Filter data can be entered in the following 3 ways:
 - LTspice file.
 - Excel or csv template with measurements.
 
-To download the source of the program follow the instructions inside the "Plot-Tool" folder.
+To download the source code of the program follow the instructions inside the "Plot-Tool" folder.
 
 ## Image of the program running.
 
