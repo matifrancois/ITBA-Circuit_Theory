@@ -4,3 +4,5 @@ Here you can find a program  to design diferent types of analog filters such as 
 
 
 The program guides the user through different configuration windows where information on the system to be performed is provided.
+
+you can see instructions to run inside the folder AnalogFilterMaker in the file readme.md or "instructivo de uso.pdf".
