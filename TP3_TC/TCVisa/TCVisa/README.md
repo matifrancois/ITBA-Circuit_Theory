@@ -14,6 +14,12 @@ It is necessary to have certain requirements listed below to use the program.
 
 ## Running the program
 
+To run the program write on your cmd (with your perisferics connected):
+
+```sh
+$ python main.py
+```
+
 After running the program, different windows will open. In each of them you must configure
 the parameters mentioned.
 
