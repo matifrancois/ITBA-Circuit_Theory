@@ -6,7 +6,7 @@ To run the program, install all the dependencies that are listed in the file cal
 
 ## What it is
 
-This is an program to plot diferent circuit transfer functions on the same graph.
+This is a program to plot diferent circuit transfer functions on the same graph.
 
 On this app the Filter data can be entered in the following 3 ways:
 
